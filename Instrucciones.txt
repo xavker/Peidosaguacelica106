@@ -1,0 +1,19 @@
+1. Ing resa a google accountan con aguacelica@gmail.com
+2. Guardar el archivo en .csv
+	clic en exportar parte izquierda, clic en "csv de google"
+
+3. Actualizar datos
+	-Abrir archivo .csv exportado
+	-Copiar la Fila Nombre y telefono Paso 1
+	-Clic en anadir nuevos contactos, esto a;adira los contactos nuevos Tabla 1 a una lista ya existente Tabla 2
+	-Verificar la pestana contactos exportados si se cargaron todas las colunnas(Todos los las clunnas son strin ecepto Vendidos que es Double)
+
+
+3. ingresar a https://www.convertcsv.com/csv-to-json.htm
+4 cargar el filecsv
+5. Seleccionar la Opcion --CSV To Keyed JSON-- de paso 5
+6 Export con el nombre archivoddmmaaaa.json y click en "Downlad Result"
+7. Ingresar a firebase 
+	https://console.firebase.google.com/u/1/project/aguacelica/database/aguacelica/data
+8. click en  ---Clientes--- para agregar el archivo creado
+9. click en importar y seleccionar el archivo JSON 

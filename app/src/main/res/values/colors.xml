@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#1A79C1</color>
+    <color name="purple_500">#1A79C1</color>
+    <color name="purple_700">#0E558A</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#020202</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cardview">#1A79C1</color>
+    <color name="cardviewentregado">#657887</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimaryDark">#241447</color>
+    <color name="colorPrimary">#29144B</color>
+    <color name="colorSelected">#F44336</color>
+    <color name="colorPendiente">#FF5722</color>
+    <color name="derecho">#4CAF50</color>
+    <color name="izquierdo">#FFEB3B</color>
+    <color name="alphabet_text_color">#3F51B5</color>
+</resources>

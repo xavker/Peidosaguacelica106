@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "1003328431147",
+    "firebase_url": "https://aguacelica.firebaseio.com",
+    "project_id": "aguacelica",
+    "storage_bucket": "aguacelica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003328431147:android:0a5324cdf559e425df766e",
+        "android_client_info": {
+          "package_name": "com.example.celicatv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOCBwB1-KGf_3FQWusvg5zE_5IUiDUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003328431147:android:d63399d39abdb6f4df766e",
+        "android_client_info": {
+          "package_name": "com.example.celicatv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOCBwB1-KGf_3FQWusvg5zE_5IUiDUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003328431147:android:10a5b2d4912aa6c2df766e",
+        "android_client_info": {
+          "package_name": "com.example.celicatv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOCBwB1-KGf_3FQWusvg5zE_5IUiDUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003328431147:android:757a82cb58c3fcb1df766e",
+        "android_client_info": {
+          "package_name": "com.example.pedidosaguacelica104"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOCBwB1-KGf_3FQWusvg5zE_5IUiDUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003328431147:android:15992c95470161fadf766e",
+        "android_client_info": {
+          "package_name": "com.example.pedidosaguacelica105"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOCBwB1-KGf_3FQWusvg5zE_5IUiDUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003328431147:android:04f6664a018b47ebdf766e",
+        "android_client_info": {
+          "package_name": "com.example.peidosaguacelica106"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOCBwB1-KGf_3FQWusvg5zE_5IUiDUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003328431147:android:bceee0e961852169df766e",
+        "android_client_info": {
+          "package_name": "com.xavker.aguacelica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003328431147-5lco26m9egaijf9limhk9630r927utp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xavker.aguacelica",
+            "certificate_hash": "9dcd24b2cd231ce63e852c6b0286096b6357f139"
+          }
+        },
+        {
+          "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdOCBwB1-KGf_3FQWusvg5zE_5IUiDUIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003328431147-igi3g29r3l4ppo5nr3uv1cfinj6pqkhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/princupal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_margin="1dp"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:weightSum="15"
+    tools:context=".Clases.MainActivity">
+
+    <SearchView
+        android:id="@+id/buscar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="1dp"
+        android:layout_weight="1"
+        android:background="#2196F3"
+        android:queryHint="@string/buscar" />
+
+    <TextView
+        android:id="@+id/clientes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/lista_de_clientes_actualizada"
+        android:textColor="#000000" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+
+        android:layout_weight="13"
+
+        android:orientation="horizontal">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scrollbarStyle="outsideOverlay"
+            />
+        <com.alphabetik.Alphabetik
+            android:id="@+id/alphSectionIndex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="5dp"
+            android:padding="3dp"
+            app:fontSize="16sp"
+            app:itemsColor="@color/alphabet_text_color" />
+
+    </LinearLayout>
+
+
+
+
+    <Button
+        android:id="@+id/buttonagregar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="20dp"
+        android:layout_weight="1"
+        android:text="@string/agregar_nuevo_cliente"
+        tools:ignore="TouchTargetSizeCheck" />
+
+
+</LinearLayout>

@@ -460,8 +460,6 @@ public class DialogodePedido {
                     Toast.makeText(context,"no se pudo enviar la notificacion porque el usuario no tiene token",Toast.LENGTH_SHORT).show();
                 }
             }
-
-
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
 
